@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjav173&label=Profile%20views&color=0e75b6&style=flat" alt="arjav173" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m **Full Stack Mern developer**
 
-- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript**
+- 💬 Ask me about **MongoDb Express React Node**
 
 - 📫 How to reach me **arjavjain173@gmail.com**
 
